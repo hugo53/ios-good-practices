@@ -29,7 +29,7 @@ If you are looking for something specific, you can jump right into the relevant 
 1. [Deployment](#deployment)
 1. [In-App Purchases (IAP)](#in-app-purchases-iap)
 1. [License](#license)
-1. [Other Sources](#others)
+1. [Other Sources](#other-sources)
 
 ## Getting Started
 
