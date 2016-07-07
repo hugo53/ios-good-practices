@@ -29,6 +29,7 @@ If you are looking for something specific, you can jump right into the relevant 
 1. [Deployment](#deployment)
 1. [In-App Purchases (IAP)](#in-app-purchases-iap)
 1. [License](#license)
+1. [Other Sources](#others)
 
 ## Getting Started
 
@@ -677,6 +678,8 @@ For more information on this topic, check out the [Futurice blog: Validating in-
 
 [futurice]: http://futurice.com/
 
+## Other Sources
+- [iOS Best Practice from Wikimedia Mobile Team](https://www.mediawiki.org/wiki/Wikimedia_Apps/Team/iOS/BestPractices)
 
 ## More Ideas
 
